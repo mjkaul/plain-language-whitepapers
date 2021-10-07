@@ -6,7 +6,7 @@ My goal is to help interested, non-technical individuals gain a basic understand
 
 ## Principles
 
-I'll use the following principles of plain language and global English in my translations.
+### Plain language 
 
 The basic principles of plain language are widely understood and documented. But if you're unfamiliar, read the [SEC's useful plain-language handbook](https://www.sec.gov/pdf/handbook.pdf). They stress the following plain-language principles, among others:
 
@@ -25,6 +25,12 @@ These are the sentence-level principles that will be most important to my plain-
 I certainly won't be providing financial or investment advice. But my interest in this world is fundamentally bound up with moral judgments that are very important to me: decentralization, creating economic opportunity, building an open internet that serves everyone, resisting the walled gardens and perverse incentives of major social-media platforms. 
 
 That said, a fundamental goal of the plain-language whitepapers will avoid my own perspectives and judgments. My goal is to simple *translate* the esoteric jargon and specialized knowledge into something that anyone can understand.
+
+### Global English
+
+Global English significantly overlaps with plain language. The goal of Global English is to maximize English writing for non-native speakers and for translators (including machine-based translators like Google Translate).
+
+The principles of Global English were thoroughly compiled by John Kohl in his book [*The Global English Style Guide*](https://openlibrary.org/works/OL13620739W/The_global_English_style_guide?edition=globalenglishsty00kohl). I'll be deploying these principles as well. They won't conflict with the plain-language principles articulated above, but they will help to make the text more readable and translate-able for non-English speakers.
 
 ## Roadmap
 
