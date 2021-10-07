@@ -43,5 +43,5 @@ Here's my tentative roadmap for translations. It's subject to change at any poin
 5. [Algorand](https://www.algorand.com/technology/white-papers)
 6. [Fetch.ai](https://fetch.ai/wp-content/uploads/2019/10/Fetch.AI-Economics-white-paper.pdf)
 7. Some materials on wallets, NFTs, and other aspects of the ecosystem that allow users to get started. I'm open to suggestions.
-8. [Hester Peirce's proposed crypto safe-harbor rule](https://github.com/CommissionerPeirce/SafeHarbor2.0)
+8. [Hester Peirce's proposed crypto safe-harbor rule](https://github.com/CommissionerPeirce/SafeHarbor2.0), and any other crypto regulations.
 
