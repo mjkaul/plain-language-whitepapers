@@ -1,6 +1,6 @@
 # plain-language-whitepapers
 
-In progress. A collection of cryptocurrency whitepapers translated into plain language. 
+A work-in-progress collection of cryptocurrency whitepapers translated into plain language. 
 
 My goal is to help interested, non-technical individuals gain a basic understanding of cryptocurrencies. I will translate headings and text. I won't include code snippets, graphics, or other non-textual elements. I'll reference these elements as appropriate in my versions.
 
