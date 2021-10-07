@@ -8,12 +8,23 @@ My goal is to help interested, non-technical individuals gain a basic understand
 
 I'll use the following principles of plain language and global English in my translations.
 
-The basic principles of plain language are widely understood and documented. But if you're unfamiliar, read the [SEC's useful plain-language handbook](https://www.sec.gov/pdf/handbook.pdf).
+The basic principles of plain language are widely understood and documented. But if you're unfamiliar, read the [SEC's useful plain-language handbook](https://www.sec.gov/pdf/handbook.pdf). They stress the following plain-language principles, among others:
 
-- Sentence length
-- 
+- Write short sentences (ideally <20 words)
+- Use definite, concrete, everyday words
+- Write in the active voice
+- Use tables or bullet lists for complex material whenever appropriate
+- Avoid jargon, especially legal jargon and highly technical business terms
 
-I'll be using as many as possible, except ones that pertain to design elements like font size or page dimensions—these are out of my control since I'm writing plain-text documents and posting them on a GitHub repository. However, the combination of [Markdown](https://guides.github.com/features/mastering-markdown/) and GitHub's own design decisions results in readable documents that largely follow these principles.
+These are the sentence-level principles that will be most important to my plain-language writing. But plain language also requires more significant acts of judgment:
+
+- Determining who my audience is and writing to them. 
+- Determining what content is significant to that audience, and ruthlessly eliminating everything else.
+- Striking a balance between objectively conveying facts and providing moral judgments or reaching conclusions. 
+
+I certainly won't be providing financial or investment advice. But my interest in this world is fundamentally bound up with moral judgments that are very important to me: decentralization, creating economic opportunity, building an open internet that serves everyone, resisting the walled gardens and perverse incentives of major social-media platforms. 
+
+That said, a fundamental goal of the plain-language whitepapers will avoid my own perspectives and judgments. My goal is to simple *translate* the esoteric jargon and specialized knowledge into something that anyone can understand.
 
 ## Roadmap
 
