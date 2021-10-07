@@ -34,7 +34,7 @@ The principles of Global English were thoroughly compiled by John Kohl in his bo
 
 ## Roadmap
 
-Here's my tentative roadmap for translations. It's subject to change at any point based on my own interests or feedback from users. The links direct to the whitepaper versions I intend to use. Submit a pull request to this page if there's something 
+Here's my tentative roadmap for translations. It's subject to change at any point based on my own interests or feedback from users. The links direct to the whitepaper versions I intend to use. Submit a pull request to this page if there's something you'd like to see added.
 
 1. [Bitcoin](https://bitcoin.org/bitcoin.pdf)
 2. [Ethereum](https://ethereum.org/en/whitepaper/)
