@@ -4,9 +4,11 @@ A work-in-progress collection of cryptocurrency whitepapers translated into plai
 
 My goal is to help interested, non-technical individuals gain a basic understanding of cryptocurrencies. I will translate headings and text. I won't include code snippets, graphics, or other non-textual elements. I'll reference these elements as appropriate in my versions.
 
-## Principles
+These whitepaper translations are just a starting point, as much for my own education as for anyone else's. If you're a complete beginner just starting to learn about cryptocurrencies and blockchains, reading whitepapers—even the plain-language versions!—is not the best starting point. So I'm also planning other plain-language educational tools. I'll link to them here once they're available. As always, send me suggestions.
 
-### Plain language 
+# Principles
+
+## Plain language 
 
 The basic principles of plain language are widely understood and documented. But if you're unfamiliar, read the [SEC's useful plain-language handbook](https://www.sec.gov/pdf/handbook.pdf). They stress the following plain-language principles, among others:
 
@@ -26,13 +28,13 @@ I certainly won't be providing financial or investment advice. But my interest i
 
 That said, a fundamental goal of the plain-language whitepapers will avoid my own perspectives and judgments. My goal is to simple *translate* the esoteric jargon and specialized knowledge into something that anyone can understand.
 
-### Global English
+## Global English
 
 Global English significantly overlaps with plain language. The goal of Global English is to maximize English writing for non-native speakers and for translators (including machine-based translators like Google Translate).
 
 The principles of Global English were thoroughly compiled by John Kohl in his book [*The Global English Style Guide*](https://openlibrary.org/works/OL13620739W/The_global_English_style_guide?edition=globalenglishsty00kohl). I'll be deploying these principles as well. They won't conflict with the plain-language principles articulated above, but they will help to make the text more readable and translate-able for non-English speakers.
 
-## Roadmap
+# Roadmap
 
 Here's my tentative roadmap for translations. It's subject to change at any point based on my own interests or feedback from users. The links direct to the whitepaper versions I intend to use. Submit a pull request to this page if there's something you'd like to see added.
 
@@ -44,3 +46,14 @@ Here's my tentative roadmap for translations. It's subject to change at any poin
 6. [Fetch.ai](https://fetch.ai/wp-content/uploads/2019/10/Fetch.AI-Economics-white-paper.pdf)
 7. Some materials on wallets, NFTs, and other aspects of the ecosystem that allow users to get started. I'm open to suggestions.
 8. [Hester Peirce's proposed crypto safe-harbor rule](https://github.com/CommissionerPeirce/SafeHarbor2.0), and any other crypto regulations, proposals, or guidance documents.
+9. Some different stablecoin whitepapers: Tether, MakerDAO, USDC
+
+^On stablecoins, cf Matt Levine's column from [7 Oct](https://www.bloomberg.com/opinion/articles/2021-10-07/matt-levine-s-money-stuff-looking-for-tether-s-money) & [11 Oct](https://www.bloomberg.com/opinion/articles/2021-10-11/look-out-for-cops-in-the-pump-and-dump) 2021 on Tether.
+
+## Queue
+
+- [Audius](https://whitepaper.audius.co/AudiusWhitepaper.pdf)
+- [The Graph](https://thegraph.com/blog/modeling-cryptoeconomic-protocols-as-complex-systems-part-1)
+- [Ethblock.art](https://ethblock.art/editorial/art-in-formation)
+- Some Cardano resources
+- [Evai.io](https://www.evai.io/pdf/EVAI-WHITEPAPER.pdf?v=2)
