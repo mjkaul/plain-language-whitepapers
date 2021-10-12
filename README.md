@@ -46,9 +46,9 @@ Here's my tentative roadmap for translations. It's subject to change at any poin
 6. [Fetch.ai](https://fetch.ai/wp-content/uploads/2019/10/Fetch.AI-Economics-white-paper.pdf)
 7. Some materials on wallets, NFTs, and other aspects of the ecosystem that allow users to get started. I'm open to suggestions.
 8. [Hester Peirce's proposed crypto safe-harbor rule](https://github.com/CommissionerPeirce/SafeHarbor2.0), and any other crypto regulations, proposals, or guidance documents.
-9. Some different stablecoin whitepapers: Tether, MakerDAO, USDC
+9. Some different stablecoin whitepapers: [Tether](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf), [MakerDAO](https://makerdao.com/en/whitepaper/), [USDC/Centre](https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf)[^1]
 
-^On stablecoins, cf Matt Levine's column from [7 Oct](https://www.bloomberg.com/opinion/articles/2021-10-07/matt-levine-s-money-stuff-looking-for-tether-s-money) & [11 Oct](https://www.bloomberg.com/opinion/articles/2021-10-11/look-out-for-cops-in-the-pump-and-dump) 2021 on Tether.
+[^1]: On stablecoins, cf Matt Levine's column from [7 Oct](https://www.bloomberg.com/opinion/articles/2021-10-07/matt-levine-s-money-stuff-looking-for-tether-s-money) & [11 Oct](https://www.bloomberg.com/opinion/articles/2021-10-11/look-out-for-cops-in-the-pump-and-dump) 2021 on Tether.
 
 ## Queue
 
