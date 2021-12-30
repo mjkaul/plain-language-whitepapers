@@ -41,7 +41,7 @@ The principles of Global English were thoroughly compiled by John Kohl in his bo
 
 Are there particular crypto-related terms that you don't understand? Are there words that you think are commonly misunderstood, or which intimidate people who are trying to understand crypto?
 
-Submit a pull request and I'll add them to the glossary.
+Submit a pull request and I'll add them to the [glossary](https://github.com/mjkaul/plain-language-whitepapers/blob/main/Glossary.md).
 
 # Roadmap
 
